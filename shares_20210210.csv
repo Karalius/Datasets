@@ -1,0 +1,69 @@
+﻿Ticker;Name;ISIN;Currency;MarketPlace;List/segment;Average Price;Open Price;High Price;Low Price;Last close Price;Last Price;Price Change(%);Best bid;Best ask;Trades;Volume;Turnover;Industry;Supersector
+AMG1L;Amber Grid;LT0000128696;EUR;VLN;Baltic Secondary List;1,06;1,06;1,06;1,06;1,06;1,06;;1,04;1,06;3;54;57,24;Energy;Energy
+APG1L;Apranga;LT0000102337;EUR;VLN;Baltic Main List;1,69426564;1,7;1,7;1,69;1,7;1,695;-0,29;1,69;1,7;16;1886;3195,385;Consumer Discretionary;Retail
+ARC1T;Arco Vara;EE3100034653;EUR;TLN;Baltic Main List;1,39745698;1,41;1,41;1,38;1,41;1,38;-2,13;1,38;1,4;8;523;730,87;Real Estate;Real Estate
+AUG1L;AUGA group;LT0000127466;EUR;VLN;Baltic Main List;0,44372217;0,444;0,444;0,44;0,44;0,444;0,91;0,44;0,444;24;27182;12061,256;Consumer Staples ;Food, Beverage and Tobacco 
+BAL1R;Latvijas balzams;LV0000100808;EUR;RIG;Baltic Secondary List;;9;;;9;9;;9;9,05;;;;Consumer Staples ;Food, Beverage and Tobacco 
+BLT1T;Baltika;EE3100145616;EUR;TLN;Baltic Main List;0,42811873;0,428;0,43;0,425;0,428;0,425;-0,7;0,423;0,428;14;758;324,514;Consumer Discretionary;Consumer Products and Services
+BTE1R;Baltic Technology Ventures;LV0000101772;EUR;RIG;First North Baltic Share List;0,30898716;0,33;0,33;0,3;0,33;0,3;-9,09;0,302;0,334;12;4206;1299,6;Telecommunications;Telecommunications
+CPA1T;Coop Pank;EE3100007857;EUR;TLN;Baltic Main List;1,47616683;1,488;1,492;1,456;1,462;1,462;;1,46;1,468;230;81774;120712,066;Financials;Banks
+DPK1R;Ditton pievadķēžu rūpnīca;LV0000100212;EUR;RIG;Baltic Secondary List;0,14704762;0,147;0,148;0,147;0,145;0,148;2,07;0,147;0,148;2;105;15,44;Basic Materials;Basic Resources
+EEG1T;Ekspress Grupp;EE3100016965;EUR;TLN;Baltic Main List;0,92692964;0,925;0,945;0,92;0,92;0,945;2,72;0,925;0,935;14;2814;2608,38;Consumer Discretionary;Media
+EFT1T;EfTEN Real Estate Fund III;EE3100127242;EUR;TLN;Baltic Main List;19,28378906;19,4;19,4;19,1;19,4;19,1;-1,55;19,1;19,4;18;1024;19746,6;Financials;Financial Services
+EWA1L;East West Agro;LT0000132060;EUR;VLN;First North Baltic Share List;;6,8;;;6,8;6,8;;6,5;6,8;;;;Industrials;Industrial Goods and Services
+FRGTE;Frigate;LV0000101665;EUR;RIG;First North Baltic Share List;;;;;;;;;;;;;Financials;Financial Services
+GRD1R;Grindeks;LV0000100659;EUR;RIG;Baltic Main List;12,90185185;12,9;13,05;12,9;12,9;13,05;1,16;12,9;13,05;5;81;1045,05;Health Care;Health Care
+GRG1L;Grigeo;LT0000102030;EUR;VLN;Baltic Main List;1,33096899;1,33;1,335;1,33;1,315;1,33;1,14;1,325;1,335;8;1032;1373,56;Basic Materials;Basic Resources
+GZE1R;Latvijas Gāze;LV0000100899;EUR;RIG;Baltic Secondary List;10,8;10,8;10,8;10,8;10,8;10,8;;10,7;10,8;4;23;248,4;Utilities;Utilities
+HAE1T;Harju Elekter;EE3100004250;EUR;TLN;Baltic Main List;7,44019465;7,98;7,98;7,12;8,08;7,22;-10,64;7,2;7,22;369;16440;122316,8;Industrials;Industrial Goods and Services
+HMX1R;HansaMatrix;LV0000101590;EUR;RIG;Baltic Main List;;9,05;;;9,05;9,05;;9;9,05;;;;Technology;Technology
+IGN1L;Ignitis grupė;LT0000115768;EUR;VLN;Baltic Main List;21,26336232;21,3;21,3;21,2;21,3;21,25;-0,23;21,2;21,25;59;1725;36679,3;Utilities;Utilities
+INC1L;INVL Technology;LT0000128860;EUR;VLN;Baltic Secondary List;2,12;2,12;2,12;2,12;2,14;2,12;-0,93;2,1;2,12;1;935;1982,2;Financials;Financial Services
+INL1L;INVL Baltic Farmland;LT0000128753;EUR;VLN;Baltic Secondary List;5,3;5,3;5,3;5,3;5,3;5,3;;5,3;5,45;1;1;5,3;Real Estate;Real Estate
+INR1L;INVL Baltic Real Estate;LT0000127151;EUR;VLN;Baltic Secondary List;2,22;2,22;2,22;2,22;2,2;2,22;0,91;2,22;2,24;1;4;8,88;Real Estate;Real Estate
+IVL1L;Invalda INVL;LT0000102279;EUR;VLN;Baltic Secondary List;8,2;8,2;8,2;8,2;8,2;8,2;;8,1;8,2;1;3;24,6;Financials;Financial Services
+K2LT;K2 LT;LT0000129009;EUR;VLN;First North Baltic Share List;29,6;29,6;29,6;29,6;29,6;29,6;;29,2;29,6;1;1;29,6;Consumer Discretionary;Consumer Products and Services
+KA11R;"Likvidējamā AS ""Kurzemes atslēga 1""";LV0000100402;EUR;RIG;Baltic Secondary List;0,66;0,66;0,66;0,66;0,66;0,66;;0,6;0,66;1;1;0,66;Consumer Discretionary;Consumer Products and Services
+KNF1L;Klaipėdos nafta;LT0000111650;EUR;VLN;Baltic Main List;0,31825032;0,319;0,319;0,318;0,318;0,319;0,31;0,318;0,319;18;7790;2479,17;Industrials;Industrial Goods and Services
+KNR1L;Kauno energija;LT0000123010;EUR;VLN;Baltic Secondary List;;0,83;;;0,83;0,83;;0,8;0,83;;;;Utilities;Utilities
+LGD1L;LITGRID;LT0000128415;EUR;VLN;Baltic Secondary List;;0,64;;;0,64;0,64;;0,645;0,66;;;;Utilities;Utilities
+LHV1T;LHV Group;EE3100073644;EUR;TLN;Baltic Main List;24,14767923;24,3;24,4;23,9;24,3;23,9;-1,65;23,8;23,9;198;4589;110813,7;Financials;Banks
+LINDA;Linda Nektar;EE3100060344;EUR;TLN;First North Baltic Share List;;7,8;;;7,8;7,8;;7,65;7,8;;;;Consumer Staples ;Food, Beverage and Tobacco 
+LJM1R;Latvijas Jūras medicīnas centrs;LV0000100741;EUR;RIG;Baltic Secondary List;;9,45;;;9,45;9,45;;9,4;9,45;;;;Health Care;Health Care
+LNA1L;Linas Agro Group;LT0000128092;EUR;VLN;Baltic Main List;0,76;0,76;0,76;0,76;0,76;0,76;;0,75;0,76;1;250;190;Consumer Staples ;Food, Beverage and Tobacco 
+LNS1L;Linas;LT0000100661;EUR;VLN;Baltic Secondary List;0,11;0,11;0,11;0,11;0,11;0,11;;0,108;0,11;1;1000;110;Basic Materials;Basic Resources
+MDARA;MADARA Cosmetics;LV0000101624;EUR;RIG;First North Baltic Share List;21,20567164;20;22;20;20;21;5;20;20,8;19;670;14207,8;Consumer Discretionary;Consumer Products and Services
+MRK1T;Merko Ehitus;EE3100098328;EUR;TLN;Baltic Main List;11,44486678;11,4;11,5;11,35;11,35;11,45;0,88;11,4;11,45;78;4091;46820,95;Industrials;Construction and Materials
+NCN1T;Nordecon;EE3100039496;EUR;TLN;Baltic Main List;1,16;1,16;1,16;1,16;1,16;1,16;;1,15;1,16;13;3343;3877,88;Industrials;Construction and Materials
+NEOFI;NEO Finance;LT0000132953;EUR;VLN;First North Baltic Share List;2,86;2,86;2,86;2,86;2,8;2,86;2,14;2,8;2,86;1;17;48,62;Financials;Financial Services
+NTU1L;Novaturas;LT0000131872;EUR;VLN;Baltic Main List;3,01083652;2,92;3,06;2,92;2,9;3,04;4,83;3,02;3,04;149;32922;99122,76;Consumer Discretionary;Travel and Leisure
+OLF1R;Olainfarm;LV0000100501;EUR;RIG;Baltic Main List;7,31195946;7,3;7,36;7,3;7,3;7,36;0,82;7,28;7,36;16;296;2164,34;Health Care;Health Care
+PKG1T;Pro Kapital Grupp;EE3100006040;EUR;TLN;Baltic Main List;0,725;0,725;0,725;0,725;0,72;0,725;0,69;0,715;0,725;1;260;188,5;Real Estate;Real Estate
+PRF1T;PRFoods;EE3100101031;EUR;TLN;Baltic Main List;0,38108911;0,384;0,384;0,38;0,38;0,38;;0,378;0,38;10;1010;384,9;Consumer Staples ;Food, Beverage and Tobacco 
+PTR1L;Panevėžio statybos trestas;LT0000101446;EUR;VLN;Baltic Main List;0,58372449;0,585;0,585;0,575;0,585;0,585;;0,57;0,585;5;1568;915,28;Industrials;Construction and Materials
+PZV1L;Pieno žvaigždės;LT0000111676;EUR;VLN;Baltic Main List;1,410288;1,42;1,42;1,4;1,43;1,41;-1,4;1,4;1,42;11;3125;4407,15;Consumer Staples ;Food, Beverage and Tobacco 
+RAR1R;Rīgas autoelektroaparātu rūpnīca;LV0000100881;EUR;RIG;Baltic Secondary List;;0,276;;;0,276;0,276;;0,258;0,278;;;;Real Estate;Real Estate
+RER1R;Rīgas elektromašīnbūves rūpnīca;LV0000101012;EUR;RIG;Baltic Secondary List;;8,35;;;8,35;8,35;;7,35;8,4;;;;Industrials;Industrial Goods and Services
+RJR1R;Rīgas juvelierizstrādājumu rūpnīca;LV0000100543;EUR;RIG;Baltic Secondary List;;0,27;;;0,27;0,27;;0,119;0,27;;;;Consumer Discretionary;Consumer Products and Services
+RKB1R;Rīgas kuģu būvētava;LV0000100378;EUR;RIG;Baltic Secondary List;0,10553726;0,107;0,107;0,105;0,107;0,105;-1,87;0,105;0,106;13;832;87,807;Industrials;Industrial Goods and Services
+RSU1L;Rokiškio sūris;LT0000100372;EUR;VLN;Baltic Main List;2,9;2,9;2,9;2,9;2,92;2,9;-0,68;2,9;2,92;7;2637;7647,3;Consumer Staples ;Food, Beverage and Tobacco 
+SAB1L;Šiaulių bankas;LT0000102253;EUR;VLN;Baltic Main List;0,50779462;0,514;0,514;0,504;0,512;0,506;-1,17;0,504;0,506;251;503576;255713,186;Financials;Banks
+SAF1R;SAF Tehnika;LV0000101129;EUR;RIG;Baltic Main List;;4,96;;;4,96;4,96;;4,94;4,96;;;;Telecommunications;Telecommunications
+SAUNA;Saunum Group;EE3100019753;EUR;TLN;First North Baltic Share List;6,32969231;6,36;6,36;6,21;6,3;6,21;-1,43;6,21;6,32;9;260;1645,72;Consumer Discretionary;Consumer Products and Services
+SCM1R;Siguldas ciltslietu un mākslīgās apsēklošanas stacija;LV0000100600;EUR;RIG;Baltic Secondary List;;4,28;;;4,28;4,28;;4;4,28;;;;Consumer Staples ;Food, Beverage and Tobacco 
+SFG1T;Silvano Fashion Group;EE3100001751;EUR;TLN;Baltic Main List;1,615;1,615;1,615;1,615;1,615;1,615;;1,61;1,615;3;20;32,3;Consumer Discretionary;Consumer Products and Services
+SKN1T;Nordic Fibreboard;EE3100092503;EUR;TLN;Baltic Secondary List;0,6622615;0,65;0,72;0,62;0,68;0,7;2,94;0,66;0,7;31;8176;5414,65;Consumer Discretionary;Consumer Products and Services
+SMA1R;PATA Saldus;LV0000101681;EUR;RIG;Baltic Secondary List;;23;;;23;23;;21;23;;;;Basic Materials;Basic Resources
+SNG1L;Snaigė;LT0000109274;EUR;VLN;Baltic Secondary List;;0,204;;;0,204;0,204;;0,2;0,204;;;;Consumer Discretionary;Consumer Products and Services
+TAL1T;Tallink Grupp;EE3100004466;EUR;TLN;Baltic Main List;0,66871965;0,67;0,672;0,666;0,67;0,668;-0,3;0,666;0,668;133;55452;37081,842;Consumer Discretionary;Travel and Leisure
+TEL1L;Telia Lietuva;LT0000123911;EUR;VLN;Baltic Main List;2,06;2,06;2,06;2,06;2,06;2,06;;2,05;2,06;23;2697;5555,82;Telecommunications;Telecommunications
+TKM1T;Tallinna Kaubamaja Grupp;EE0000001105;EUR;TLN;Baltic Main List;9,10781071;9,1;9,12;9,08;9,1;9,12;0,22;9,1;9,12;144;4353;39646,3;Consumer Discretionary;Retail
+TPD1T;Trigon Property Development;EE3100003443;EUR;TLN;Baltic Secondary List;;0,77;;;0,77;0,77;;0,7;0,77;;;;Real Estate;Real Estate
+TSM1T;Tallinna Sadam;EE3100021635;EUR;TLN;Baltic Main List;1,81919551;1,82;1,82;1,815;1,815;1,82;0,28;1,815;1,82;55;5749;10458,555;Industrials;Industrial Goods and Services
+TVEAT;Tallinna Vesi;EE3100026436;EUR;TLN;Baltic Main List;14,13309723;14,1;14,2;14,1;14,15;14,2;0,35;14,15;14,2;35;1553;21948,7;Utilities;Utilities
+UTR1L;Utenos trikotažas;LT0000109324;EUR;VLN;Baltic Secondary List;0,82121839;0,91;0,91;0,81;0,91;0,81;-10,99;0,82;0,9;11;1305;1071,69;Consumer Discretionary;Consumer Products and Services
+VBL1L;Vilniaus baldai;LT0000104267;EUR;VLN;Baltic Secondary List;;10,5;;;10,5;10,5;;10,5;10,7;;;;Consumer Discretionary;Consumer Products and Services
+VEF1R;VEF;LV0000101079;EUR;RIG;Baltic Secondary List;;4,9;;;4,9;4,9;;3;4,9;;;;Real Estate;Real Estate
+VLP1L;Vilkyškių pieninė;LT0000127508;EUR;VLN;Baltic Main List;2,77434599;2,76;2,8;2,76;2,76;2,8;1,45;2,78;2,8;5;237;657,52;Consumer Staples ;Food, Beverage and Tobacco 
+VSS1R;Valmieras stikla šķiedra;LV0000100485;EUR;RIG;Baltic Secondary List;1,58;1,58;1,58;1,58;1,58;1,58;;1,56;1,58;3;35;55,3;Basic Materials;Chemicals
+ZMP1L;Žemaitijos pienas;LT0000121865;EUR;VLN;Baltic Secondary List;2,02;2,02;2,02;2,02;2,02;2,02;;2;2,02;1;10;20,2;Consumer Staples ;Food, Beverage and Tobacco 
